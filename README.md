@@ -1,9 +1,4 @@
 <html>
-
-<head>
-<title>PhotoEnhance</title>
-</head>
-
 <body>
 <h1> PhotoEnhance </h1>
   <h2> Dong Group People Enhance Project in 2020 </h2>
