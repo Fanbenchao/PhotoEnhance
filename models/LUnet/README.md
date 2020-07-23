@@ -31,8 +31,8 @@
       </tr>
       <tr>
         <td>HRnet-Boost-DDF-Residual</td>
-        <td>22.45</td>
-        <td>0.89</td>
+        <td>......</td>
+        <td>......</td>
       </tr>
     </table>
 </body>
