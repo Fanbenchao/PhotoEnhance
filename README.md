@@ -21,7 +21,7 @@
   </tr>
   <tr>
     <td>Unet-GAN</td>
-    <td>......</td>
+    <td>26.10</td>
     <td>......</td>
   </tr>
   <tr>
@@ -40,8 +40,8 @@
   </tr>
   <tr>
     <td>HDRnet</td>
-    <td>.....</td>
-    <td>.....</td>
+    <td>17.40</td>
+    <td>0.54</td>
   </tr>
   <tr>
     <td>ESRGAN</td>
