@@ -31,6 +31,7 @@
   </tr>
 </table>
 <h4> Public Dataset Enhancement </h4>
+  <p> test image resolution is 900x1200 </p> 
   <table>
   <tr>
     <th>Methods</th>
