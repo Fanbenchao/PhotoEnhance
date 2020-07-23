@@ -31,7 +31,7 @@
   </tr>
 </table>
 <h4> Public Dataset Enhancement </h4>
-  <p> test image resolution is 900x1200 </p> 
+  <p> test image resolution is 900x1200 from SICE dataset Part, total 767 pictures </p> 
   <table>
   <tr>
     <th>Methods</th>
