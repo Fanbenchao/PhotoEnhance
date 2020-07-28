@@ -16,7 +16,7 @@
   </tr>
   <tr>
     <td>ESRGAN</td>
-    <td>.....</td>
+    <td>26.70</td>
     <td>.....</td>
   </tr>
   <tr>
@@ -26,7 +26,7 @@
   </tr>
   <tr>
     <td>HRnet</td>
-    <td>......</td>
+    <td>25.70</td>
     <td>......</td>
   </tr>
 </table>
@@ -45,13 +45,13 @@
   </tr>
   <tr>
     <td>ESRGAN</td>
-    <td>......</td>
-    <td>......</td>
+    <td>17.58</td>
+    <td>0.54</td>
   </tr>
   <tr>
     <td>Unet-GAN</td>
-    <td>......</td>
-    <td>......</td>
+    <td>16.47</td>
+    <td>0.49</td>
   </tr>
   <tr>
     <td>HRnet</td>
