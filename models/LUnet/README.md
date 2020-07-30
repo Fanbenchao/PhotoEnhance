@@ -86,24 +86,37 @@
         <td>N</td>
         <td>Y</td>
         <td>N</td>
-        <td>...</td>
-        <td>...</td>
+        <td>23.77</td>
+        <td>0.92</td>
       </tr>
       <tr>
         <td>4</td>
         <td>Y</td>
         <td>Y</td>
-        <td>N</td>
         <td>Y</td>
         <td>N</td>
         <td>N</td>
-        <td>Y</td>
         <td>N</td>
-        <td>...</td>
-        <td>...</td>
+        <td>N</td>
+        <td>N</td>
+        <td>23.82</td>
+        <td>0.92</td>
       </tr>
       <tr>
         <td>5</td>
+        <td>Y</td>
+        <td>Y</td>
+        <td>N</td>
+        <td>Y</td>
+        <td>N</td>
+        <td>N</td>
+        <td>Y</td>
+        <td>N</td>
+        <td>24.74</td>
+        <td>0.93</td>
+      </tr>
+      <tr>
+        <td>6</td>
         <td>Y</td>
         <td>Y</td>
         <td>Y</td>
@@ -116,7 +129,7 @@
         <td>0.92</td>
       </tr>
       <tr>
-        <td>6</td>
+        <td>7</td>
         <td>Y</td>
         <td>Y</td>
         <td>Y</td>
