@@ -138,8 +138,8 @@
         <td>N</td>
         <td>N</td>
         <td>Y</td>
-        <td>...</td>
-        <td>...</td>
+        <td>26.67</td>
+        <td>0.94</td>
       </tr>
     </table>
 </body>
