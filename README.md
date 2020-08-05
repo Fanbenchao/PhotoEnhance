@@ -55,8 +55,8 @@
   </tr>
   <tr>
     <td>HRnet</td>
-    <td>......</td>
-    <td>......</td>
+    <td>17.82</td>
+    <td>0.54</td>
   </tr>
 </table>
 </body>
